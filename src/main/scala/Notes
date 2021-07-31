@@ -1,0 +1,59 @@
+1. Compilation and run
+scalac HelloWorld.scala
+-> HelloWorld$.class
+HelloWorld.class
+scala HelloWorld
+
+2. Features
+- OO: every value is object, no primitive type
+- functional: every function is object, support high-order functions, nested functions, anonymous functions
+- statically typed: verify and enforce type at compile time. No need redundant type info
+- extensible: new language constructs can be added to Scala in form of libraries
+- concurrent: allow code in immutable manner
+- run on JVM and execute Java code
+
+3. Advantages
+- complex features -> better coding and efficiency
+- tuples, macros, functions are advancements
+- powerful capability of OO and functional
+- highly scalable -> support for backend
+- reduce risk in thread-safety
+- functional -> less verbose, self-express code -> high-quality, less-bugg code
+- lazy computation -> efficient: compute when needed
+- no static method/var. Only singleton object
+- trait concept: collection of abstract and non-abstract methods, which can be compiled into Java interfaces
+
+4. Disadvantages
+- sometimes, 2 approaches make Scala hard to understand
+- no true-tail recursive optimization as JVM
+
+5. Applications:
+- data analysis (with spark)
+- web-app and API applications
+- develop framework and libraries
+- backend operations (to improve dev productivity)
+
+6. What makes Scala scalable?
+- combination of OO and functional programming
+- parallel collections library to address parallel programming patterns
+- concise, succinct syntax to shorten code by 10 times
+- manage complexity by raising abstraction of objects
+- compatible with Java without glue code, special syntax
+
+7. Scala vs Java
+- Scala is mixture of OO and FP, Java is OO only
+- Scala is less readable due to nested code
+- Scalas' process of compiling source code is slower
+- Scala supports operator overloading, lazy evaluation while Java does not
+- Scala is not backward compatible (code written in new version cannot run in older version)
+- Scala treats methods/functions as var, Java treats them as objects
+- Scala's code is more compact
+- Scala's vars are by default immutable, Java by default mutable
+- Java is less OO due to presence of primitives and statics
+
+8. Scala vs Python
+- Python is dynamically typed language, Scala is statically typed
+- Python is interpreter based, Scala is compiler based
+- Python supports heavyweight process forking, not support multi-threading
+- Python is good to use for ML, NLP
+

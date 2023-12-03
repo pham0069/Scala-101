@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80a6316a-2aaa-4083-8b7e-136aa779146f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XwQd0qExLWePeTU7WAO5BBskfE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/function" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/FlexTrade/maxxapi" value="PREVIEW" />
+        <entry key="$USER_HOME$/FlexTrade/maxxapi-intellij" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80a6316a-2aaa-4083-8b7e-136aa779146f" name="Default Changelist" comment="" />
+      <created>1581954760799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581954760799</updated>
+      <workItem from="1581954762373" duration="18318000" />
+      <workItem from="1582272248451" duration="10294000" />
+      <workItem from="1583976685793" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="217" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581954860055">
+      <screen x="0" y="23" width="1635" height="1027" />
+    </state>
+    <state x="217" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1635.1027@0.23.1635.1027" timestamp="1581954860055" />
+    <state x="820" y="373" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582303650676">
+      <screen x="0" y="23" width="1635" height="1027" />
+    </state>
+    <state x="820" y="373" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1635.1027@0.23.1635.1027" timestamp="1582303650676" />
+    <state x="820" y="373" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1636.1027@0.23.1636.1027" timestamp="1582183585321" />
+    <state x="821" y="373" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1637.1027@0.23.1637.1027" timestamp="1582200371925" />
+    <state x="821" y="347" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582016778893">
+      <screen x="0" y="23" width="1636" height="1027" />
+    </state>
+    <state x="821" y="347" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1636.1027@0.23.1636.1027" timestamp="1582016778893" />
+    <state x="919" y="232" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582906603435">
+      <screen x="0" y="23" width="1635" height="1027" />
+    </state>
+    <state x="919" y="232" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1635.1027@0.23.1635.1027" timestamp="1582906603435" />
+    <state x="603" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581954784946">
+      <screen x="0" y="23" width="1635" height="1027" />
+    </state>
+    <state x="603" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1635.1027@0.23.1635.1027" timestamp="1581954784946" />
+    <state x="857" y="451" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582016789231">
+      <screen x="0" y="23" width="1636" height="1027" />
+    </state>
+    <state x="857" y="451" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1636.1027@0.23.1636.1027" timestamp="1582016789231" />
+    <state x="870" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582302333433">
+      <screen x="0" y="23" width="1635" height="1027" />
+    </state>
+    <state x="870" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1635.1027@0.23.1635.1027" timestamp="1582302333433" />
+    <state x="653" y="175" key="SettingsEditor" timestamp="1582906378547">
+      <screen x="0" y="23" width="1635" height="1027" />
+    </state>
+    <state x="653" y="175" key="SettingsEditor/0.23.1635.1027@0.23.1635.1027" timestamp="1582906378547" />
+    <state x="419" y="253" width="667" height="486" key="find.popup" timestamp="1581954930985">
+      <screen x="0" y="23" width="1635" height="1027" />
+    </state>
+    <state x="419" y="253" width="667" height="486" key="find.popup/0.23.1635.1027@0.23.1635.1027" timestamp="1581954930985" />
+    <state x="423" y="264" key="new project wizard" timestamp="1582906441819">
+      <screen x="0" y="23" width="1635" height="1027" />
+    </state>
+    <state x="423" y="264" key="new project wizard/0.23.1635.1027@0.23.1635.1027" timestamp="1582906441819" />
+    <state x="626" y="307" width="670" height="676" key="search.everywhere.popup" timestamp="1582019347064">
+      <screen x="0" y="23" width="1636" height="1027" />
+    </state>
+    <state x="626" y="307" width="670" height="676" key="search.everywhere.popup/0.23.1636.1027@0.23.1636.1027" timestamp="1582019347064" />
+  </component>
+</project>
